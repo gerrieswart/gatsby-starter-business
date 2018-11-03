@@ -15,7 +15,7 @@ offerings:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
+        Wat gaan hier aan. sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
         molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
         sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
